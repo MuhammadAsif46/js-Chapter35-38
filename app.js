@@ -28,3 +28,38 @@
 // }
 
 // document.write(sum());
+
+
+//************ Question 4 ************//
+
+// function cal(num1, num2, opr){
+//     if(opr === "+"){
+//         return num1 + num2 ;
+//     }
+//     else if (opr === "-"){
+//         return num1 - num2 ;
+//     }
+//     else if (opr === "*"){
+//         return num1 * num2 ;
+//     }
+//     else if (opr === "/"){
+//         return num1 / num2 ;
+//     }
+//     else if (opr === "%"){
+//         return num1 % num2 ;
+//     }
+//     else if (opr === "**"){
+//         return num1 ** num2 ;
+//     }
+//     else{
+//         return "invalid operator";
+//     }
+// }
+
+// document.write("<br>" + cal(12 , 6, "+"));
+// document.write("<br>" + cal(12 , 6, "-"));
+// document.write("<br>" + cal(12, 6, "*"));
+// document.write("<br>" + cal(12, 6, "/"));
+// document.write("<br>" + cal(12, 6, "%"));
+// document.write("<br>" + cal(12, 6, "**"));
+// document.write("<br>" + cal(12, 6, "&"));
