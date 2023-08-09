@@ -16,3 +16,15 @@
 //     document.write(fullName);
 // }
 // greet();
+
+
+//************ Question 3 ************//
+
+// function sum(){
+//     var num1 = +prompt("enter a number");
+//     var num2 = +prompt("enter a number");
+//     var sum = num1 + num2;
+//     return sum;
+// }
+
+// document.write(sum());
