@@ -63,3 +63,15 @@
 // document.write("<br>" + cal(12, 6, "%"));
 // document.write("<br>" + cal(12, 6, "**"));
 // document.write("<br>" + cal(12, 6, "&"));
+
+
+//************ Question 6 ************//
+
+// function factorial (fact){
+//     var num = fact;
+//     for(var i = 1; i < fact; i++){
+//         num *= i
+//     }
+//     return num;
+// }
+// document.write(factorial(+prompt("enter a number")));
