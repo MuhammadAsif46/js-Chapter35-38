@@ -86,3 +86,18 @@
 //     }
 // }
 // counting(+prompt("Enter starting value:"), +prompt("Enter End value:"));
+
+
+//************ Question 8 ************//
+
+// function hypotenuse(){
+//     var base = prompt("base");
+//     var perp = prompt("perpendicular");
+//     var hyp = (base ** 2) + (perp ** 2);
+//     // console.log(hyp);
+//     function square(){
+//         return Math.sqrt(hyp)
+//     }
+//     return "Hypotenous = " + square();
+//     }
+// document.write(hypotenuse());
