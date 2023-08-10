@@ -101,3 +101,12 @@
 //     return "Hypotenous = " + square();
 //     }
 // document.write(hypotenuse());
+
+
+//************ Question 9 ************//
+
+// var height = 10;
+// function rectangle(width, height){
+//     return width * height;
+// }
+// document.write("The area of rectangle is : " + rectangle(6, height));
