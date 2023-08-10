@@ -110,3 +110,20 @@
 //     return width * height;
 // }
 // document.write("The area of rectangle is : " + rectangle(6, height));
+
+
+//************ Question 10 ************//
+
+// function palindrome(word){
+//     var check = "";
+//     for(var i = word.length -1 ; i >= 0; i--){
+//         check += word[i]
+//     }
+//     if(check === word){
+//         alert("this word is : " + word + " palindrome");
+//     }else{
+//         alert("this word is not a palindrome");
+//     }
+// }
+
+// document.write("palindrome word is : " + palindrome(prompt("enter a word to check it`s a palindrome")))
