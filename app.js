@@ -75,3 +75,14 @@
 //     return num;
 // }
 // document.write(factorial(+prompt("enter a number")));
+
+
+//************ Question 7 ************//
+
+// function counting(startNum,endNum){
+    
+//     for(var i = startNum; i <= endNum; i++){
+//         document.write(i + "<br>");
+//     }
+// }
+// counting(+prompt("Enter starting value:"), +prompt("Enter End value:"));
