@@ -144,3 +144,21 @@
 //     document.write("Expacted Output : " + arr.join(" "));
 // }
 // capitalize(prompt("Enter a four words string"));
+
+
+//************ Question 12 ************//
+
+// function longestWord(sen){
+//     var words = sen.split(" ");
+//     var long = words[0];
+//     for(var i = 0; i < words.length; i++){
+//         if(words[i].length > long.length){
+//             long = words[i];
+//         };
+//     }
+
+//     document.write("User Enter Words is : " + sen + "</br>");
+//     document.write("The longest word is : " + long);
+
+// }
+// longestWord(prompt("Enter a word to check in which word is longest"));
