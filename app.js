@@ -127,3 +127,20 @@
 // }
 
 // document.write("palindrome word is : " + palindrome(prompt("enter a word to check it`s a palindrome")))
+
+
+
+//************ Question 11 ************//
+
+// function capitalize(sen){
+//     var words = sen.split(" ");
+//     var arr = []
+//     for(var i = 0; i < words.length; i++){
+//         var result = words[i][0].toUpperCase() + words[i].slice(1);
+//         arr.push(result);
+//         // document.write(result.join(""));
+//     }
+//     document.write("Example String : " + sen + "</br>");
+//     document.write("Expacted Output : " + arr.join(" "));
+// }
+// capitalize(prompt("Enter a four words string"));
